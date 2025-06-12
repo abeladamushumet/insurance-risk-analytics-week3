@@ -2,6 +2,8 @@ __pycache__/
 .ipynb_checkpoints/
 data/
 *.csv
-*.dvc
 .env
 .DS_Store
+.dvc/*
+!.dvc/
+

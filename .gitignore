@@ -6,4 +6,5 @@ data/
 .DS_Store
 .dvc/*
 !.dvc/
+!data/*.dvc
 
